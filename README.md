@@ -9,9 +9,11 @@ A landing page designed and developed during a 2-week internship. Designed in Fi
 
 ## Screenshots
 
-> Add screenshots to the `screenshots/` folder and link them here.
->
-> Suggested filenames: `screenshots/preview-desktop.png`, `screenshots/preview-mobile.png`
+![Hero](screenshots/hero.png)
+
+![Benefits](screenshots/benefits.png)
+
+![Pricing](screenshots/pricing.png)
 
 ## Project Overview
 
